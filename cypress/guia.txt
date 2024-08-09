@@ -1,0 +1,2 @@
+Plugin para utilizar cucumber
+npm install --save-dev cypress-cucumber-preprocessor

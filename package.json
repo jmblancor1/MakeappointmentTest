@@ -1,0 +1,22 @@
+{
+  "name": "appoimentCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "@cucumber/cucumber": "^10.8.0",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.13.2",
+    "ts-loader": "^9.5.1",
+    "tsify": "^5.0.4"
+  }
+}
