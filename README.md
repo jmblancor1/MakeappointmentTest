@@ -32,6 +32,14 @@ cypress/support/commands.js: Incluye comandos personalizados de Cypress.
 cypress.config.js: Configuración general del proyecto de Cypress.
 chrome-profile: Carpeta utilizada para almacenar el perfil personalizado de Chrome que evita la aparición del popup del Administrador de Contraseñas de Google.
 
+Se relizaron tres pruebas que fueron realizar una cita con los tres tipos de Facility:
+   -Tokyo CURA Healthcare Center
+   -Hongkong CURA Healthcare Center 
+   -Seoul CURA Healthcare Center
+el reporte de la ejecucion de las pruebas se muestra en cypress de la siguiente forma:
+![image](https://github.com/user-attachments/assets/ded84362-1e7a-42f5-ab99-d31a33b4ec7e)
+
+
 Ejecutar las Pruebas
 Para ejecutar las pruebas automatizadas, puedes utilizar los siguientes comandos:
   npx cypress open
